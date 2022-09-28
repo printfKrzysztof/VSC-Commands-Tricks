@@ -9,13 +9,3 @@ Hotkey list:
 | Go to next line      | ctrl+shift+num_pad_+ |
 | Debug                | ctrl+f5              |
 | Build                | Ctrl+Shift+B         |
-| Caps Lock            | ⇪                    |
-| Tab                  | ⇥                    |
-| Esc                  | ⎋                    |
-| Power                | ⌽                    |
-| Return               | ↩                    |
-| Delete               | ⌫                    |
-| Up                   | ↑                    |
-| Down                 | ↓                    |
-| Left                 | ←                    |
-| Right                | →                    |
