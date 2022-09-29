@@ -12,4 +12,5 @@
 | Variable list        | Ctrl+Shift+O         |
 | Markdown Preview     | Ctrl+K (unpress) V   |
 | Show/Hide Terminal   | Ctrl+J               |
+| Header/Source Switch | Alt+O                |
 
