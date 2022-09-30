@@ -13,4 +13,7 @@
 | Markdown Preview     | Ctrl+K (unpress) V   |
 | Show/Hide Terminal   | Ctrl+J               |
 | Header/Source Switch | Alt+O                |
+| Multiline edditing   | Ctrl+Shift+up/down   |
+## Printing buffers
+``` *(uint8_t (*) [number_of_elements]) your_array``` 
 
